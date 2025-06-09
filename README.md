@@ -1,1 +1,1 @@
-# ml-practice
+# ml-fundamentals
